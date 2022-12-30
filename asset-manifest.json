@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/saylaniReactweb/static/css/main.9a60a590.css",
-    "main.js": "/saylaniReactweb/static/js/main.1591590a.js",
+    "main.js": "/saylaniReactweb/static/js/main.591412cb.js",
     "static/js/787.28cb0dcd.chunk.js": "/saylaniReactweb/static/js/787.28cb0dcd.chunk.js",
     "index.html": "/saylaniReactweb/index.html",
     "main.9a60a590.css.map": "/saylaniReactweb/static/css/main.9a60a590.css.map",
-    "main.1591590a.js.map": "/saylaniReactweb/static/js/main.1591590a.js.map",
+    "main.591412cb.js.map": "/saylaniReactweb/static/js/main.591412cb.js.map",
     "787.28cb0dcd.chunk.js.map": "/saylaniReactweb/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9a60a590.css",
-    "static/js/main.1591590a.js"
+    "static/js/main.591412cb.js"
   ]
 }
